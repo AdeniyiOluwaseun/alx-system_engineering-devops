@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l 13-symbolic
+ls -la _ls_
