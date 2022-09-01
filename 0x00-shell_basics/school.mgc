@@ -1,2 +1,2 @@
-#!bin/bash
-file - School
+#!/bin/bash
+file -m School
