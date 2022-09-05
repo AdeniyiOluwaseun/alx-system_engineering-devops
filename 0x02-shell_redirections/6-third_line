@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -w is he lead his army across iacta
+head -n 3 iacta | tail -n 1
